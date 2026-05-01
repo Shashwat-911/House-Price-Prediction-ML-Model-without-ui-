@@ -19,3 +19,8 @@ Ensure you have Python 3.8+ installed on your system.
 2. Navigate to the project directory in your terminal:
    ```bash
    cd path/to/your/project/folder
+
+## Output
+<img width="714" height="400" alt="image" src="https://github.com/user-attachments/assets/81428433-27c8-4a02-8d72-4aa29107577a" />
+<img width="798" height="520" alt="image" src="https://github.com/user-attachments/assets/a9126e45-a738-468f-9c22-061a367e1240" />
+<img width="816" height="408" alt="image" src="https://github.com/user-attachments/assets/8ecb6322-3f3f-4dbc-8e1f-b58b31ebe623" />
